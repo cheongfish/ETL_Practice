@@ -1,11 +1,14 @@
 # ETL_Practice
 ## Outline
-* Extract , Transform , Load 에 관한 내용을 바탕으로 실습
-* Mysql에서 추출한 데이터를 변환과정을 거치고 postgresql로 적재
-* .env 파일로 민감정보 관리
-* Query , ORM(SQLAlchemy)를 이용하여 적재함
+* Goal
+    * Extract , Transform , Load 에 관한 내용을 바탕으로 실습
+    * Mysql에서 추출한 데이터를 변환과정을 거치고 postgresql로 적재
+    * .env 파일로 민감정보 관리
+        * DBMS 접속 정보 e.g(mysql, psql, s3, ncp ...)
+    * Query , ORM(SQLAlchemy)를 이용하여 적재함
 
-### Directory
+    <Br>
+*  Directory <Br>
 📦ETL_Practice <br>
  ┣ 📂db <br>
  ┃ ┣ 📜connector.py <br>
