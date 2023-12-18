@@ -6,19 +6,19 @@
 * Query , ORM(SQLAlchemy)를 이용하여 적재함
 
 ### Directory
-📦ETL_Practice
- ┣ 📂db
- ┃ ┣ 📜connector.py
- ┃ ┣ 📜mysql_query.py
- ┃ ┗ 📜postgresql_query.py
- ┣ 📂pipeline
- ┃ ┣ 📜controller.py
- ┃ ┣ 📜extract.py
- ┃ ┣ 📜load.py
- ┃ ┗ 📜transform.py
- ┣ 📜.env
- ┣ 📜settings.py
- ┣ 📜start.py
+📦ETL_Practice <br>
+ ┣ 📂db <br>
+ ┃ ┣ 📜connector.py <br>
+ ┃ ┣ 📜mysql_query.py <br>
+ ┃ ┗ 📜postgresql_query.py <br>
+ ┣ 📂pipeline <br>
+ ┃ ┣ 📜controller.py <br>
+ ┃ ┣ 📜extract.py <br>
+ ┃ ┣ 📜load.py <br>
+ ┃ ┗ 📜transform.py <br>
+ ┣ 📜.env <br>
+ ┣ 📜settings.py <br>
+ ┣ 📜start.py <br>
  ┗ 📜utils.py
 
 
