@@ -5,6 +5,24 @@
 * .env 파일로 민감정보 관리
 * Query , ORM(SQLAlchemy)를 이용하여 적재함
 
+### Directory
+📦ETL_Practice
+ ┣ 📂db
+ ┃ ┣ 📜connector.py
+ ┃ ┣ 📜mysql_query.py
+ ┃ ┗ 📜postgresql_query.py
+ ┣ 📂pipeline
+ ┃ ┣ 📜controller.py
+ ┃ ┣ 📜extract.py
+ ┃ ┣ 📜load.py
+ ┃ ┗ 📜transform.py
+ ┣ 📜.env
+ ┣ 📜settings.py
+ ┣ 📜start.py
+ ┗ 📜utils.py
+
+
+
 
 ## Inference
 * https://velog.io/@baeyuna97/SQLAlchemy-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0
