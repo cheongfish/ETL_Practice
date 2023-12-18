@@ -24,6 +24,6 @@
 
 
 
-## Inference
+## Reference
 * https://velog.io/@baeyuna97/SQLAlchemy-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0
 * https://bramhyun.tistory.com/18
